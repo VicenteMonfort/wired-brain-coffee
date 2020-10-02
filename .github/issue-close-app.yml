@@ -3,12 +3,12 @@ comment: "This issue is closed because it does not meet our issue template. Plea
 issueConfigs:
 # There can be several configs for different kind of issues.
 - content:
-# Example 1: bug report
+# Example 1: Bug report
   - "Describe the bug"
   - "Steps to reproduce"
   - "Expected behavior"
 - content:
-# Example 2: feature request
+# Example 2: Feature request
   - "Use case"
   - "Expected Behavior"
   - "Additional context "
